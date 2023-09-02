@@ -2,7 +2,7 @@
 My Personal Data Analytics Case Study Projects Portofolio
 
 
-I am a 4th semester student majoring
+I am a 5th semester student majoring
 Industrial Engineering with a strong interest in the field
 Data Analytics and Business Intelligence. I
 have basic knowledge in data analysis,
