@@ -1,0 +1,10 @@
+#Joining 4 Table
+
+SELECT * 
+FROM `case-study-2-397716.projectdata.orders` o
+INNER JOIN `case-study-2-397716.projectdata.orders_detail` od
+ON o.order_id = od.order_id
+INNER JOIN `case-study-2-397716.projectdata.products` p
+ON od.product_id = p.product_id
+INNER JOIN `case-study-2-397716.projectdata.users` u
+ON o.buyer_id = u.user_id
