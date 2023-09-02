@@ -21,5 +21,5 @@ My Linkedin : www.linkedin.com/in/amalan-fadil-gaib-940a32253
 Tools :  Microsoft Excel, Microsoft Power BI, SQL/BigQuery, Tableau, Python
         
     
-        ![Screenshot 2023-05-23 205827](https://github.com/amaldevice/DAProjectCaseStudy/assets/99197713/dce6b17e-2ed9-4dd8-a06d-fce0ec56953b)
+    
 
