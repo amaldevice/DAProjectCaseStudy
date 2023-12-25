@@ -25,35 +25,36 @@ Stroke merupakan salah satu penyebab kematian dan kecacatan terbesar di Indonesi
 
 Selain menyebabkan kematian, stroke juga dapat menyebabkan berbagai macam kecacatan, seperti:
 
-Kelumpuhan
-Gangguan bicara
-Gangguan penglihatan
-Gangguan ingatan
-Gangguan emosi
+- Kelumpuhan
+- Gangguan bicara
+- Gangguan penglihatan
+- Gangguan ingatan
+- Gangguan emosi
+
 Kecacatan akibat stroke dapat berdampak signifikan pada kehidupan penderita dan keluarganya. Penderita stroke yang mengalami kecacatan berat seringkali membutuhkan bantuan orang lain untuk melakukan aktivitas sehari-hari. Hal ini dapat menimbulkan beban ekonomi dan psikologis bagi keluarga.
 
 Berdasarkan data dari BPJS Kesehatan, pada tahun 2022, biaya pelayanan kesehatan untuk stroke mencapai Rp2,7 triliun. Biaya ini ditanggung oleh pemerintah melalui program Jaminan Kesehatan Nasional (JKN).
 
-Upaya pencegahan dan pengendalian stroke
+#### Upaya pencegahan dan pengendalian stroke
 
 Ada beberapa hal yang dapat dilakukan untuk mencegah dan mengendalikan stroke, antara lain:
 
-#### Menjaga tekanan darah, gula darah, dan kolesterol dalam batas normal
+* Menjaga tekanan darah, gula darah, dan kolesterol dalam batas normal
 Tekanan darah tinggi, diabetes, dan kolesterol tinggi merupakan faktor risiko utama stroke. Oleh karena itu, penting untuk menjaga ketiga faktor risiko ini dalam batas normal.
 
-#### Menghentikan merokok
+* Menghentikan merokok
 Merokok merupakan faktor risiko utama stroke. Oleh karena itu, penting untuk berhenti merokok jika Anda ingin mencegah stroke.
 
-#### Mengurangi konsumsi alkohol
+* Mengurangi konsumsi alkohol
 Konsumsi alkohol berlebihan merupakan faktor risiko stroke. Oleh karena itu, penting untuk membatasi konsumsi alkohol.
 
-#### Melakukan aktivitas fisik secara teratur
+* Melakukan aktivitas fisik secara teratur
 Aktivitas fisik secara teratur dapat membantu menurunkan tekanan darah, gula darah, dan kolesterol. Selain itu, aktivitas fisik juga dapat membantu menjaga berat badan ideal.
 
-#### Menjaga berat badan ideal
+* Menjaga berat badan ideal
 Obesitas merupakan faktor risiko stroke. Oleh karena itu, penting untuk menjaga berat badan ideal.
 
-#### Mengonsumsi makanan yang sehat dan bergizi
+* Mengonsumsi makanan yang sehat dan bergizi
 Konsumsi makanan yang sehat dan bergizi dapat membantu menurunkan tekanan darah, gula darah, dan kolesterol.
 
 Selain itu, penting juga untuk melakukan pemeriksaan kesehatan secara rutin, terutama bagi orang yang memiliki faktor risiko stroke. Pemeriksaan kesehatan dapat membantu mendeteksi stroke secara dini sehingga dapat dilakukan penanganan yang tepat.
@@ -63,11 +64,11 @@ Selain itu, penting juga untuk melakukan pemeriksaan kesehatan secara rutin, ter
 
 Berikut adalah beberapa statistik yang mendukung pentingnya memprediksi risiko stroke:
 
-#### Menurut data dari Kementerian Kesehatan Republik Indonesia (Kemenkes RI), prevalensi stroke di Indonesia pada tahun 2022 adalah 1,7%. Hal ini berarti, dari setiap 1.000 orang di Indonesia, terdapat 17 orang yang berisiko terkena stroke.
+- Menurut data dari Kementerian Kesehatan Republik Indonesia (Kemenkes RI), prevalensi stroke di Indonesia pada tahun 2022 adalah 1,7%. Hal ini berarti, dari     setiap 1.000 orang di Indonesia, terdapat 17 orang yang berisiko terkena stroke.
 
-#### Stroke merupakan salah satu penyebab kematian dan kecacatan terbesar di Indonesia. Menurut data Kemenkes RI, pada tahun 2022, stroke menjadi penyebab kematian ke-4 di Indonesia. Sekitar 7% kematian di Indonesia disebabkan oleh stroke.
+- Stroke merupakan salah satu penyebab kematian dan kecacatan terbesar di Indonesia. Menurut data Kemenkes RI, pada tahun 2022, stroke menjadi penyebab           kematian ke-4 di Indonesia. Sekitar 7% kematian di Indonesia disebabkan oleh stroke.
 
-#### Berdasarkan data dari Badan Penyelenggara Jaminan Sosial (BPJS) Kesehatan, pada tahun 2022, biaya pelayanan kesehatan untuk stroke mencapai Rp2,7 triliun. Biaya ini ditanggung oleh pemerintah melalui program Jaminan Kesehatan Nasional (JKN).
+- Berdasarkan data dari Badan Penyelenggara Jaminan Sosial (BPJS) Kesehatan, pada tahun 2022, biaya pelayanan kesehatan untuk stroke mencapai Rp2,7 triliun.      Biaya ini ditanggung oleh pemerintah melalui program Jaminan Kesehatan Nasional (JKN).
 
 Dari contoh konkret dan statistik di atas, dapat disimpulkan bahwa memprediksi risiko stroke sangat penting untuk mencegah terjadinya stroke, mengurangi angka kematian dan kecacatan akibat stroke, serta mengurangi beban ekonomi bagi penderita dan keluarganya.
 
@@ -176,31 +177,32 @@ Jumlah Kasus Stroke Rendah: Secara umum, jumlah kasus stroke sangat rendah diban
 - Pengecekan nilai kosong(null)
 - Mengganti nilai kosong dengan nilai rata rata (mean)
 ### Keuntungan:
-Simpel dan Cepat:
 
+* Simpel dan Cepat:
 Metode ini sangat mudah diimplementasikan dan tidak memerlukan banyak perhitungan rumit. Hanya perlu menghitung rata-rata dari data yang ada.
-Memelihara Total:
 
+* Memelihara Total:
 Jika jumlah total data dan jumlah nilai yang diketahui cukup besar, penggantian dengan rata-rata memungkinkan untuk memelihara total keseluruhan. Hal ini terutama berguna ketika perbedaan antara nilai yang hilang dan rata-rata tidak signifikan.
-Tidak Memperkenalkan Bias Besar:
 
+* Tidak Memperkenalkan Bias Besar:
 Metode ini cenderung tidak memperkenalkan bias besar ke dalam data karena hanya menggunakan nilai yang sudah ada.
-Cocok untuk Data Numerik:
 
+* Cocok untuk Data Numerik:
 Cocok digunakan pada data numerik, seperti data berbentuk angka, karena rata-rata dapat dengan mudah dihitung.
+
 ### Keterbatasan:
-Rentan terhadap Outliers:
-
+* Rentan terhadap Outliers:
 Jika data memiliki pencilan (outliers), penggunaan nilai rata-rata dapat menjadi kurang akurat karena rata-rata dipengaruhi oleh nilai yang ekstrem.
-Potensi Mengurangi Variabilitas:
 
+* Potensi Mengurangi Variabilitas:
 Menggantikan nilai yang hilang dengan rata-rata dapat mengurangi variabilitas data, membuat distribusi tampak lebih homogen daripada seharusnya.
-Tidak Cocok untuk Data Kategorikal:
 
+* Tidak Cocok untuk Data Kategorikal:
 Metode ini tidak cocok untuk data kategorikal atau kualitatif karena tidak masuk akal untuk menggantikan nilai kategorikal dengan nilai rata-rata.
-Tidak Mengambil Konteks:
 
+* Tidak Mengambil Konteks:
 Penggunaan nilai rata-rata tidak mempertimbangkan konteks atau pola yang mungkin ada dalam data. Ini dapat menyebabkan penyimpangan dari pola sebenarnya jika ada tren atau hubungan yang lebih kompleks dalam data.
+
 - Menghapus nilai outlier
   Metode yang digunakan untuk menghapus adalah IQR
   IQR (Interquartile Range) adalah sebuah ukuran statistik yang mengukur sebaran data dalam suatu himpunan. IQR menggambarkan rentang antara kuartil pertama 
@@ -301,6 +303,43 @@ Tujuan fungsi yang akan dioptimalkan, misalnya, "binary:logistic" untuk klasifik
 
 ## Evaluasi
 
+Metrik yang digunakan untuk mengevaluasi kinerja model adalah :
+
+* Accuracy (Akurasi):
+
+    - Definisi: Akurasi mengukur sejauh mana model klasifikasi berhasil mengidentifikasi dan mengklasifikasikan data dengan benar dibandingkan dengan total           data yang dievaluasi.
+    - Formula:
+    (Jumlah Prediksi Benar) / (Jumlah Prediksi Benar + Jumlah Prediksi Salah)
+
+ 
+* Precision (Presisi):
+
+    - Definisi: Presisi mengukur sejauh mana prediksi positif dari model adalah benar. Ini memberikan indikasi tentang berapa banyak dari instans positif yang        diprediksi oleh model sebenarnya positif.
+    - Formula:
+      (True Positives) / (True Positives + False Positives)
+
+ 
+* Recall (Recall atau Sensitivitas):
+
+    - Definisi: Recall mengukur sejauh mana model mampu mengidentifikasi semua instance positif yang sebenarnya. Ini memberikan indikasi tentang sejauh mana    model "ingat" untuk mendeteksi kasus positif.
+    - Formula:
+(True Positives) / (True Positives + False Negatives)
+
+​
+ 
+* F1 Score:
+
+    - Definisi: F1 Score adalah harmonic mean dari precision dan recall. Ini memberikan keseimbangan antara presisi dan recall, dan sangat berguna ketika terdapat ketidakseimbangan dalam distribusi kelas.
+    - Formula:
+ 2 * (Presisi * Recall) / (Presisi + Recall)
+
+ 
+* Cross-Validation Mean (Rata-rata Cross-Validation):
+
+    - Definisi: Cross-validation adalah teknik evaluasi model yang melibatkan pembagian dataset menjadi beberapa subset (lipatan/fold), melatih model pada beberapa subset dan menguji pada subset yang tidak terlatih. Cross-Validation Mean mengacu pada rata-rata performa model di semua lipatan tersebut.
+    - Formula: Rata-rata performa model pada setiap lipatan.
+
+#### Perbandingan beberapa model
 
 | Model         | Train Accuracy | Test Accuracy |  Accuracy | Precision | Recall | F1 Score | CV Mean |
 |---------------|-----------------|----------|---------------|--------|-----------|----------|---------|
