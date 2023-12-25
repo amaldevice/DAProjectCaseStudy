@@ -96,24 +96,62 @@ Dataset ini digunakan untuk memprediksi apakah seorang pasien kemungkinan besar 
 
 ### Numerical Variable
 ![download](https://github.com/amaldevice/Data-Analytic-Portofolio/assets/99197713/c8f84f01-4812-4db2-ac70-434a1db39d84)
+Gambar diatas merupakan boxplot dari kolom id yang dimana tidak terdeteksi outlier
 
 ![download (1)](https://github.com/amaldevice/Data-Analytic-Portofolio/assets/99197713/09dab5d8-c462-49d9-9780-efa026191b5a)
+Gambar diatas merupakan boxplot dari kolom age yang dimana tidak terdeteksi  outlier
 
 ![download (2)](https://github.com/amaldevice/Data-Analytic-Portofolio/assets/99197713/70ea9cc9-a853-467b-be59-f76dab753a8a)
+Gambar diatas merupakan boxplot dari kolom avg_glucose_level yang dimana terdeteksi beberapa outlier
                                             
 ![download (3)](https://github.com/amaldevice/Data-Analytic-Portofolio/assets/99197713/98d805bc-efd2-4380-99e7-dab154f812fd)
+Gambar diatas merupakan boxplot dari kolom bmi yang dimana terdeteksi beberapa outlier
 
 ### Categorical Variable
 
 ![smokingstatus](https://github.com/amaldevice/Data-Analytic-Portofolio/assets/99197713/78828a82-deef-4e76-a123-653fe542358b)
 
+Berdasarkan grafik tersebut, berikut adalah beberapa analisis yang dapat diambil:
+
+Orang yang tidak pernah merokok memiliki risiko stroke terendah: Jumlah orang yang tidak pernah merokok dan tidak mengalami stroke adalah yang tertinggi di antara semua kategori. Selain itu, mereka yang tidak pernah merokok juga memiliki jumlah orang yang paling sedikit yang mengalami stroke.
+
+Merokok dapat meningkatkan risiko stroke: Meskipun jumlah orang yang merokok dan mengalami stroke tidak sebanyak orang yang tidak pernah merokok, namun jika kita melihat proporsi antara mereka yang merokok dan mengalami stroke dengan mereka yang merokok dan tidak mengalami stroke, kita bisa melihat bahwa merokok tampaknya meningkatkan risiko stroke.
+
 ![residence](https://github.com/amaldevice/Data-Analytic-Portofolio/assets/99197713/b1f02239-9312-4a19-80cf-f40cc3c222ec)
+
+Grafik ini menunjukkan perbandingan antara jumlah orang dengan dan tanpa stroke di area urban dan rural. Berikut adalah beberapa analisis yang dapat diambil:
+
+Jumlah Kasus Stroke Rendah: Jumlah orang yang mengalami stroke sangat rendah dibandingkan dengan mereka yang tidak, baik di area perkotaan maupun pedesaan. Ini menunjukkan bahwa stroke mungkin bukan penyakit yang umum di populasi ini.
+
+Distribusi Kasus Stroke: Distribusi kasus stroke antara area perkotaan dan pedesaan tampaknya hampir sama. Ini menunjukkan bahwa tempat tinggal (urban atau rural) mungkin tidak memiliki pengaruh besar terhadap risiko stroke.
+
+Perbandingan antara Urban dan Rural: Meskipun ada sedikit lebih banyak orang yang tinggal di area perkotaan yang mengalami stroke dibandingkan dengan mereka yang tinggal di area pedesaan, perbedaannya tidak signifikan.
 
 ![worktype](https://github.com/amaldevice/Data-Analytic-Portofolio/assets/99197713/fb839e19-4c63-4648-9e95-fdc6ab725ce0)
 
+Grafik ini menunjukkan perbandingan antara jumlah orang dengan dan tanpa stroke berdasarkan jenis pekerjaan mereka. Berikut adalah beberapa analisis yang dapat diambil:
+
+Sektor Swasta memiliki Insiden Stroke Tertinggi: Orang yang bekerja di sektor swasta memiliki insiden stroke tertinggi dibandingkan dengan jenis pekerjaan lainnya. Ini mungkin karena faktor-faktor seperti stres kerja atau gaya hidup yang tidak sehat.
+
+Insiden Stroke Rendah di Kalangan yang Belum Pernah Bekerja: Mereka yang belum pernah bekerja memiliki insiden stroke terendah. Ini mungkin karena kelompok ini sebagian besar terdiri dari anak-anak atau orang muda yang umumnya memiliki risiko stroke yang lebih rendah.
+
+Jumlah Kasus Stroke Rendah: Secara umum, jumlah kasus stroke sangat rendah dibandingkan dengan mereka yang tidak mengalami stroke di semua jenis pekerjaan. Ini menunjukkan bahwa stroke mungkin bukan penyakit yang umum di populasi ini.
+
 ![evermarid](https://github.com/amaldevice/Data-Analytic-Portofolio/assets/99197713/1f9204cb-22f2-4441-a9d7-83fc4c8aac8b)
 
+Grafik ini menunjukkan perbandingan antara jumlah orang dengan dan tanpa stroke berdasarkan status perkawinan mereka. Berikut adalah beberapa analisis yang dapat diambil:
+
+Orang yang Pernah Menikah memiliki Insiden Stroke yang Lebih Rendah: Orang yang pernah menikah memiliki insiden stroke yang lebih rendah dibandingkan dengan mereka yang belum pernah menikah. Ini terlihat dari jumlah orang tanpa stroke (ditandai dengan warna biru) yang lebih tinggi pada kelompok yang pernah menikah.
+
+Jumlah Kasus Stroke Rendah: Secara umum, jumlah kasus stroke sangat rendah dibandingkan dengan mereka yang tidak mengalami stroke di kedua kategori. Ini menunjukkan bahwa stroke mungkin bukan penyakit yang umum di populasi ini.
+
 ![gender](https://github.com/amaldevice/Data-Analytic-Portofolio/assets/99197713/da3f8105-dea3-4a08-b78f-d3fdf461a369)
+
+Grafik ini menunjukkan perbandingan kasus stroke berdasarkan jenis kelamin. Berikut adalah beberapa analisis yang dapat diambil:
+
+Distribusi Kasus Stroke Berdasarkan Jenis Kelamin: Terlihat bahwa jumlah wanita yang tidak mengalami stroke lebih banyak dibandingkan pria, namun jumlah pria dan wanita yang mengalami stroke relatif sama. Ini menunjukkan bahwa stroke mungkin mempengaruhi pria dan wanita dengan cara yang hampir sama.
+
+Jumlah Kasus Stroke Rendah: Secara umum, jumlah kasus stroke sangat rendah dibandingkan dengan mereka yang tidak mengalami stroke di semua jenis kelamin. Ini menunjukkan bahwa stroke mungkin bukan penyakit yang umum di populasi ini.
                               
 ### Variabel-variabel pada Stroke dataset adalah sebagai berikut:
 1) id: pengenal unik
@@ -164,6 +202,9 @@ Tidak Mengambil Konteks:
 
 Penggunaan nilai rata-rata tidak mempertimbangkan konteks atau pola yang mungkin ada dalam data. Ini dapat menyebabkan penyimpangan dari pola sebenarnya jika ada tren atau hubungan yang lebih kompleks dalam data.
 - Menghapus nilai outlier
+  Metode yang digunakan untuk menghapus adalah IQR
+  IQR (Interquartile Range) adalah sebuah ukuran statistik yang mengukur sebaran data dalam suatu himpunan. IQR menggambarkan rentang antara kuartil pertama 
+  (Q1) dan kuartil ketiga (Q3) dari suatu distribusi data. Kuartil adalah nilai-nilai yang membagi data menjadi empat bagian sama besar.
 - Mengubah kolom non numeric (string) menjadi kategorical 
 - Pengecekan korelasi kolom fitur dengan kolom target (stroke)
 
@@ -195,11 +236,28 @@ tinggi badan >= 160 cm
     berat badan < 60 kg: normal
     |
     berat badan >= 60 kg: gemuk
+Parameter : 
+Criterion:
+Menentukan fungsi pengukuran kualitas split, seperti "gini" untuk Gini impurity atau "entropy" untuk Entropy.
+Max Depth:
+Batasan kedalaman pohon untuk menghindari overfitting.
+Min Samples Split:
+Jumlah minimum sampel yang diperlukan untuk memecah node internal.
+Min Samples Leaf:
+Jumlah minimum sampel yang diperlukan untuk menjadi daun (leaf) dari pohon.
     
 ### RandomForest
 RandomForest adalah algoritma pembelajaran mesin supervised yang digunakan untuk klasifikasi dan regresi. Algoritma ini bekerja dengan membangun beberapa pohon keputusan secara independen.
 Untuk memprediksi kelas atau nilai suatu data, algoritma RandomForest akan mengambil suara dari pohon-pohon keputusan yang telah dibangun. Kelas atau nilai yang paling banyak dipilih oleh pohon-pohon keputusan tersebut akan menjadi prediksi algoritma.
 RandomForest dapat meningkatkan akurasi prediksi dibandingkan dengan DecisionTree dengan cara mengurangi overfitting. Overfitting adalah suatu kondisi di mana model terlalu cocok dengan data pelatihan, sehingga model tidak dapat memprediksi data baru dengan baik.
+
+Parameter ini mencakup parameter Decision Tree, serta beberapa parameter tambahan:
+N_estimators:
+Jumlah pohon dalam ensemble (jumlah Decision Trees).
+Max Features:
+Jumlah maksimum fitur yang dipertimbangkan untuk split pada setiap pohon.
+Bootstrap:
+Menentukan apakah sampel dibangun dengan penggantian (bootstrap sampling).
 
 ### LogisticRegression
 LogisticRegression adalah algoritma pembelajaran mesin supervised yang digunakan untuk klasifikasi biner. Algoritma ini bekerja dengan membangun model regresi logistik.
@@ -207,49 +265,105 @@ Regresi logistik adalah suatu model regresi yang digunakan untuk memprediksi pro
 Contoh:
 Misalkan kita ingin membangun model yang dapat memprediksi apakah seseorang itu lulus ujian atau tidak.
 Algoritma LogisticRegression akan membangun model regresi logistik yang dapat memprediksi probabilitas lulus ujian seseorang. Model ini akan menggunakan atribut-atribut data, seperti nilai ujian, nilai kehadiran, dan nilai portofolio, untuk memprediksi probabilitas lulus ujian seseorang.
+Parameter : 
+C:
+Parameter regularisasi yang mengontrol penalti untuk kompleksitas model.
+Solver:
+Algoritma untuk mendapatkan solusi, seperti "lbfgs", "liblinear", atau "sag".
+Max Iter:
+Jumlah iterasi maksimum untuk konvergensi.
 
 ### XGBoost
 XGBoost adalah algoritma pembelajaran mesin supervised yang digunakan untuk klasifikasi dan regresi. Algoritma ini bekerja dengan membangun pohon keputusan secara bertahap.
 Pada setiap tahap, algoritma XGBoost akan membangun pohon keputusan yang dapat meningkatkan akurasi prediksi model. Algoritma ini akan melakukan hal ini dengan cara memaksimalkan gain Gini dari pohon keputusan yang dibangun.
 Gain Gini adalah suatu ukuran kinerja pohon keputusan. Gain Gini yang lebih tinggi menunjukkan bahwa pohon keputusan tersebut dapat meningkatkan akurasi prediksi model.
 XGBoost dapat meningkatkan akurasi prediksi dibandingkan dengan algoritma lain, seperti DecisionTree dan RandomForest, dengan cara mengurangi overfitting dan meningkatkan kecepatan pelatihan model.
+
+Parameter :
+Learning Rate (Eta):
+Menentukan seberapa besar langkah pembelajaran yang diambil pada setiap iterasi saat menyesuaikan bobot.
+Max Depth:
+Maksimum kedalaman pohon.
+Min Child Weight:
+Jumlah minimum sampel yang diperlukan pada node anak.
+Subsample:
+Fraksi dari total sampel yang digunakan dalam setiap iterasi.
+Colsample Bytree:
+Fraksi dari fitur yang digunakan dalam setiap iterasi.
+N_estimators:
+Jumlah iterasi (pohon) dalam boosting.
+Objective:
+Tujuan fungsi yang akan dioptimalkan, misalnya, "binary:logistic" untuk klasifikasi biner.
+
 - Mengfit model dengan dataset
 
 
 
+## Evaluasi
 
-## Evaluation
-Berdasarkan hasil modelling diatas, model LogisticRegression lah yang memiliki  akurasi tertinggi dibandingkan model model yang lainnya
+
+| Model         | Train Accuracy | Test Accuracy |  Accuracy | Precision | Recall | F1 Score | CV Mean |
+|---------------|-----------------|----------|---------------|--------|-----------|----------|---------|
+| Logistic Regression | 0.96 | 0.95 | 0.95 | 0.47 | 0.5 | 0.48 | 0.96 |
+| Random Forest | 0.99 | 0.95 | 0.95 | 0.47 | 0.49 | 0.48 | 0.96|
+| Decision Tree | 1.0 | 0.93 | 0.93 | 0.57 | 0.56 | 0.57 | 0.92 |
+| XGBoost | 1.0 | 0.95 | 0.95 | 0.71 | 0.57 | 0.61 | 0.95 |
+
 
 ![conf](https://github.com/amaldevice/Data-Analytic-Portofolio/assets/99197713/55021763-07c9-4dbf-9737-2cdcee1c69d6)
 
+Dalam matriks ini:
+
+841 instans benar-benar diprediksi sebagai kelas 0 (True Negative).
+36 instans salah diprediksi sebagai kelas 0, padahal sebenarnya adalah kelas 1 (False Negative).
+Tidak ada instans yang diprediksi sebagai kelas 1 (False Positive dan True Positive keduanya 0).
+Dengan kata lain, model ini memiliki tingkat akurasi yang baik dalam memprediksi kelas 0, dengan 841 prediksi benar dan tidak ada kesalahan positif. Namun, model tersebut tidak dapat mengidentifikasi kelas 1 sama sekali, dengan 36 kesalahan negatif. Ini menunjukkan bahwa model ini mungkin perlu ditingkatkan lagi untuk dapat memprediksi kelas 1 dengan lebih baik.
+
+![comf2](https://github.com/amaldevice/Data-Analytic-Portofolio/assets/99197713/45a519f3-dfdd-4393-b84a-6e5b54e59eb7)
+
+Dalam matriks ini:
+
+841 instans benar-benar diprediksi sebagai kelas 0 (True Negative).
+36 instans salah diprediksi sebagai kelas 0, padahal sebenarnya adalah kelas 1 (False Negative).
+Tidak ada instans yang diprediksi sebagai kelas 1 (False Positive dan True Positive keduanya 0).
+Dengan kata lain, model ini memiliki tingkat akurasi yang baik dalam memprediksi kelas 0, dengan 841 prediksi benar dan tidak ada kesalahan positif. Namun, model tersebut tidak dapat mengidentifikasi kelas 1 sama sekali, dengan 36 kesalahan negatif. Ini menunjukkan bahwa model ini mungkin perlu ditingkatkan lagi untuk dapat memprediksi kelas 1 dengan lebih baik.
+
+![conf3](https://github.com/amaldevice/Data-Analytic-Portofolio/assets/99197713/bb017c0a-eaff-4f9b-bed7-5e451da76343)
+
+Dalam matriks ini:
+
+814 instans benar-benar diprediksi sebagai kelas 0 (True Negative).
+27 instans salah diprediksi sebagai kelas 1, padahal sebenarnya adalah kelas 0 (False Positive).
+30 instans salah diprediksi sebagai kelas 0, padahal sebenarnya adalah kelas 1 (False Negative).
+6 instans benar-benar diprediksi sebagai kelas 1 (True Positive).
+Dengan kata lain, model ini memiliki tingkat akurasi yang baik dalam memprediksi kelas 0, dengan 814 prediksi benar dan 27 kesalahan positif. Namun, model tersebut tampaknya kurang baik dalam memprediksi kelas 1, dengan 30 kesalahan negatif dan hanya 6 prediksi benar. Ini menunjukkan bahwa model ini mungkin perlu ditingkatkan lagi untuk dapat memprediksi kelas 1 dengan lebih baik.
+
+![conf4](https://github.com/amaldevice/Data-Analytic-Portofolio/assets/99197713/82c12ce1-078d-4c1b-8eea-df1baa02904e)
+
+Dalam matriks ini:
+
+834 instans benar-benar diprediksi sebagai kelas 0 (True Negative).
+7 instans salah diprediksi sebagai kelas 1, padahal sebenarnya adalah kelas 0 (False Positive).
+30 instans salah diprediksi sebagai kelas 0, padahal sebenarnya adalah kelas 1 (False Negative).
+6 instans benar-benar diprediksi sebagai kelas 1 (True Positive).
+Dengan kata lain, model ini memiliki tingkat akurasi yang baik dalam memprediksi kelas 0, dengan 834 prediksi benar dan 7 kesalahan positif. Namun, model tersebut tampaknya kurang baik dalam memprediksi kelas 1, dengan 30 kesalahan negatif dan hanya 6 prediksi benar. Ini menunjukkan bahwa model ini mungkin perlu ditingkatkan lagi untuk dapat memprediksi kelas 1 dengan lebih baik.
+
+#### Berdasarkan evaluasi hasil modelling diatas
+
+Model XGBoost tampaknya menjadi model terbaik di antara yang lain. Berikut adalah beberapa alasan mengapa:
+
+Akurasi Pelatihan dan Pengujian: XGBoost memiliki akurasi pelatihan sempurna (1.0), dan akurasi pengujian yang tinggi (0.95). Ini menunjukkan bahwa model ini mampu belajar dengan baik dari data pelatihan dan juga generalisasi dengan baik ke data yang tidak dilihat sebelumnya.
+
+Presisi dan Skor F1: XGBoost memiliki presisi tertinggi (0.71) dan skor F1 tertinggi (0.61) dibandingkan dengan model lain. Presisi tinggi berarti model ini lebih dapat diandalkan dalam mengidentifikasi kelas positif, dan skor F1 yang tinggi menunjukkan kinerja klasifikasi yang seimbang antara presisi dan recall.
+
+CV Mean: Meski CV Mean XGBoost (0.95) sedikit lebih rendah dibandingkan Logistic Regression dan Random Forest (0.96), namun perbedaannya tidak signifikan dan masih dalam rentang yang sangat baik.
+
+Oleh karena itu, berdasarkan metrik ini, XGBoost tampaknya menjadi model terbaik.
 
 
-### Train Acc : 1.0
-Penjelasan: Akurasi pelatihan mengukur sejauh mana model dapat mengklasifikasikan data pelatihan dengan benar. Nilai 1.0 menunjukkan bahwa model berhasil mengklasifikasikan semua sampel pelatihan dengan benar.
-Akurasi Testing (Testing Accuracy):
 
-### Testing Acc : 0.9578107183580388
-Penjelasan: Akurasi testing mengukur sejauh mana model dapat mengklasifikasikan data uji (testing) dengan benar. Nilai 0.9578107183580388 menunjukkan bahwa model berhasil mengklasifikasikan sekitar 95.78% dari data uji dengan benar.
 
-### Accuracy Score : 0.9578107183580388
-Penjelasan: Accuracy score adalah ukuran keseluruhan keberhasilan model dalam mengklasifikasikan data, dihitung sebagai jumlah prediksi benar dibagi dengan jumlah total prediksi.
 
-### Precision Score : 0.7134081196581197
-Penjelasan: Precision mengukur sejauh mana prediksi positif model akurat. Nilai 0.7134081196581197 menunjukkan bahwa sekitar 71.34% dari instansi yang diprediksi positif oleh model memang benar-benar positif.
-
-### Recall Score: 0.5791716210860087
-Penjelasan: Recall (atau Sensitivity) mengukur sejauh mana model dapat menemukan semua instansi positif yang sebenarnya. Nilai 0.5791716210860087 menunjukkan bahwa model berhasil menemukan sekitar 57.92% dari semua instansi positif.
-
-### F1 Score: 0.6115985397091388
-Penjelasan: F1 score adalah harmonic mean dari precision dan recall. Ini memberikan suatu metrik yang seimbang antara precision dan recall. Nilai 0.6115985397091388 menunjukkan keseimbangan antara akurasi prediksi positif dan kemampuan model untuk menemukan semua instansi positif yang sebenarnya.
-
-### Cross-validation scores : [0.93447293, 0.92011412, 0.94008559, 0.92724679, 0.92154066]
-Penjelasan: Cross-validation scores adalah hasil akurasi yang diperoleh dari setiap iterasi dalam proses cross-validation. Dalam contoh ini, model diuji menggunakan lima fold cross-validation, dan hasil akurasi dari setiap fold adalah [0.93447293, 0.92011412, 0.94008559, 0.92724679, 0.92154066].
-
-### Mean CV accuracy : 0.9286920191342445
-Penjelasan: Mean CV accuracy adalah rata-rata dari hasil cross-validation scores. Dalam contoh ini, rata-rata akurasi dari lima iterasi cross-validation adalah 0.9286920191342445. Metric ini memberikan gambaran umum tentang performa model secara keseluruhan selama proses cross-validation.
-Proses cross-validation melibatkan pembagian dataset menjadi beberapa bagian (fold) dan melakukan beberapa iterasi pelatihan dan pengujian menggunakan subset berbeda untuk evaluasi model. Hal ini membantu menghindari overfitting atau hasil yang sangat dipengaruhi oleh pembagian khusus dataset. Dengan menggunakan mean CV accuracy, kita dapat mendapatkan estimasi yang lebih stabil tentang sejauh mana model dapat diharapkan untuk performa pada data yang belum pernah dilihat sebelumnya.
 
 
 
