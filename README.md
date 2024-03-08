@@ -2,7 +2,7 @@
 My Personal Data Analytics Case Study Projects Portofolio
 
 
-I am a 5th semester student majoring
+I am a 6th semester student majoring
 Industrial Engineering with a strong interest in the field
 Data Analytics and Business Intelligence. I
 have basic knowledge in data analysis,
@@ -18,7 +18,7 @@ taking data analytics courses on campus
 
 My Linkedin : www.linkedin.com/in/amalan-fadil-gaib-940a32253
 
-Tools :  Microsoft Excel, Microsoft Power BI, SQL/BigQuery, Tableau, Python
+Tools :  Microsoft Excel, Microsoft Power BI, Looker Studio, SQL/BigQuery, Tableau, Python
         
     
     
